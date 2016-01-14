@@ -1,2 +1,11 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 its a bundle of changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+after changing each piece of code you need to make sure to add files to staging
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+I can work on multiple at a same time and keeping my working code in tact 
+
+How do the diagrams help you visualize the branch structure?
+It helps us to under how progressively with timeline git works and branches work
