@@ -9,4 +9,3 @@ I can work on multiple at a same time and keeping my working code in tact
 
 How do the diagrams help you visualize the branch structure?
 It helps us to under how progressively with timeline git works and branches work
-aasdfasd
