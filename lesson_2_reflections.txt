@@ -9,3 +9,9 @@ I can work on multiple at a same time and keeping my working code in tact
 
 How do the diagrams help you visualize the branch structure?
 It helps us to under how progressively with timeline git works and branches work
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it helps to add both code to master
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+most of the time when we merge we need automatic merge when we work on seperate files.
